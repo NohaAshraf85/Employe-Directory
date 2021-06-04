@@ -7,7 +7,7 @@ import "./components/SearchForm/SearchForm.css";
 function App() {
   return (
     <div>
-    <Header />,
+    <Header />
     <SearchForm />
     </div>
   );

@@ -2,10 +2,9 @@ import React from "react";
 
 function SearchForm (props) {
     return (
-        <form className = "search">
-            <div className="mb-3">
-                <label htmlFor="employees" for="exampleFormControlInput1" class="form-label">Email address</label>
-                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
+        <form className = "search mx-auto">
+            <div className="my-4">
+                <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="Search" />
             </div>
         </form>
 
