@@ -64,3 +64,29 @@ The Seach component provides the user with the ability to search through the emp
 ### List/ Seach Results
 The List/Search Results component lists the fetched employee information which enables the user to search through or sort using the Name field of the list. 
 
+![Homepage](./assets/homepage.png)
+
+## License
+![APM](https://img.shields.io/apm/l/README)
+
+## Badges
+
+![HTML](https://img.shields.io/badge/HTML-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![Bootstrap-5](https://img.shields.io/badge/Bootstrap-blue)
+
+## Contributing 
+
+To contribute to this project, please make sure you follow the guidelines in [The Contributor Covenant](https://www.contributor-covenant.org/) as general guidelines.
+Kindly maintain the highest ethics and respect. For further questions or requests kindly contact me through my [Email](mailto:noha_ashraf85@hotmail.com) or [GitHub](https://github.com/NohaAshraf85).
+
+## Deployed-Application
+The Employee Directory application is an application built using React and is deployed on GitHub Pages through the following link [The Employee Directory App](https://nohaashraf85.github.io/Employee-Directory/)
+
+## Tests
+The application is currently tested using the front-end. 
+
+## Questions
+For any questions, please contact me through [GitHub](https://github.com/NohaAshraf85) 
+or [Email](mailto:noha_ashraf85@hotmail.com)
