@@ -66,6 +66,8 @@ The List/Search Results component lists the fetched employee information which e
 
 ![Homepage](./assets/homepage.png)
 
+The application video demo is available through this link: [Demo](https://drive.google.com/file/d/1IOnWHEGZN-gFyjzGaRozvsML_2FofwIh/view)
+
 ## License
 ![APM](https://img.shields.io/apm/l/README)
 
